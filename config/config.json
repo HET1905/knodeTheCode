@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "KNOTCODE",
+    "database": "knotcode",
     "host": "localhost",
     "dialect": "mysql",
     "seederStorage": "json",
