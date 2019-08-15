@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "KNOTCODE",
+    "host": "localhost",
+    "dialect": "mysql",
+    "seederStorage": "json",
+    "seederStoragePath": "sequelizeData.json"
+  },
+  "test": {
+    "username": "root",
+    "password": "password",
+    "database": "testdb",
+    "host": "localhost",
+    "dialect": "mysql",
+    "logging": false
+  },
+  "production": {
+    "use_env_variable": "JAWSDB_URL",
+    "dialect": "mysql"
+  }
+}

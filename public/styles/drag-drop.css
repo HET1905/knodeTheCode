@@ -1,0 +1,235 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INDEX~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* body */
+#quiz {
+  background: url(../images/programming-code-abstract-technology-background-software-1024x756.jpg);
+  font-family: 'Libre Baskerville', serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+img{
+  box-shadow: 10px 10px 5px rgb(22, 22, 22);
+
+}
+
+
+.instructions,
+.scoreMessage,
+#scoreList, #leftScore{
+  color: white;
+}
+
+#scoreList{
+  text-align: center;
+}
+
+#resultDiv,
+#question-top,
+#choices,
+.final-topics-row {
+  display: none;
+}
+
+#resultDiv {
+  width: 60%;
+  height: 600px;
+  margin: auto auto;
+  margin-top: 15px;
+  border: 10px double rgba(78, 185, 217, 0.85);
+  padding: 5%;
+  background: rgba(12, 34, 56, .9);
+}
+
+.table-responsive {
+  height: 350px;
+  width: 100%;
+  overflow-y: auto;
+  /* border: 2px solid #444; */
+  background: #343a40;
+}
+
+/* table {
+  width: 100%;
+} */
+/* thead{
+  position: fixed;
+  background: #343a40;
+}
+
+th{
+  border: none;
+  padding: 15%;
+} */
+
+td {
+  padding: 24px;
+  /* background: #eee; */
+}
+
+#leftScoreDiv {
+  float: left;
+  width: 30%;
+}
+
+#rightScoreDiv {
+  float: right;
+  width: 60%;
+  font-size: 0.8em;
+}
+
+#rightScoreDiv div {
+  margin-bottom: 5px;
+}
+
+/* .spaceGenerator{
+  margin-bottom: 5px;
+} */
+/* name div */
+#nameDiv {
+  background-color: rgba(8, 52, 95, 0.85);
+  border: 10px double rgba(78, 185, 217, 0.85);
+  width: 60%;
+  padding: 10%;
+  margin: auto auto;
+  margin-top: 40px;
+  box-shadow: 10px 10px 5px rgb(22, 22, 22);
+
+}
+
+.nameSubmit {
+  margin-top: 2%;
+  border: 5px double rgba(78, 185, 217, 0.85);
+}
+
+/* main initial divs */
+#question-top {
+  font-family: 'Libre Baskerville', serif;
+
+
+}
+
+#questionCard {
+  background-color: lightslategray;
+  height: 100px;
+  background-color: rgba(8, 52, 95, 0.85);
+  border: 10px double rgba(78, 185, 217, 0.85);
+  color: white;
+
+
+}
+
+#question-text {
+  margin: 3%;
+  color: black;
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 30px;
+  padding-left: 10%;
+  height: 80px;
+  margin-top: 2%
+}
+
+#final-topics {
+  color: linen;
+  text-align: center;
+  /* position: absolute; */
+  /* top:30%; */
+  border: 1px solid black;
+  background-color: lightslategray;
+  opacity: .80;
+  margin-left: 25%;
+  margin-right: 25%;
+  height: 240px;
+  margin-bottom: 3%;
+  font-family: 'Libre Baskerville', serif;
+  
+}
+
+
+#answer-input {
+  border: 1px solid black;
+  background: lightgrey;
+
+}
+
+#choices {
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+
+
+
+
+}
+
+/* #choice1,#choice2,#choice3{
+  width: 60%;
+} */
+#choice1 {
+  background-color: rgba(8, 52, 95, 0.85);
+  border: 10px double rgba(78, 185, 217, 0.85);
+  color: white;
+}
+
+#choice2 {
+  background-color: rgba(8, 52, 95, 0.85);
+  border: 10px double rgba(78, 185, 217, 0.85);
+  color: white;
+}
+
+#choice3 {
+  background-color: rgba(8, 52, 95, 0.85);
+  border: 10px double rgba(78, 185, 217, 0.85);
+  color: white;
+}
+
+#submitBtn {
+  margin: 15px;
+  box-shadow: 10px 10px 5px rgb(22, 22, 22);
+
+}
+
+#navbar {
+  font-family: 'Libre Baskerville', serif;
+}
+
+/* 
+.ui-widget-content{
+  width: 20%;
+}
+*/
+
+
+
+#wrong,
+#correct {
+  display: inline;
+}
+
+#correct {
+  padding-right: 30%;
+}
+
+
+#score {
+  /* background-color: lightblue; */
+  background-color: rgba(8, 52, 95, 0.555);
+  border: 5px double rgba(78, 185, 217, 0.555);
+  color: white;
+  padding: 1%;
+  box-shadow: 10px 10px 5px rgb(22, 22, 22);
+
+  /* margin-right: 10px;
+  width: 20%; */
+
+  /* border: navy solid 5px; */
+}
+
+.ui-draggable-dragging .card {
+  /* background: red; */
+  width: 50%;
+  padding: 0;
+  box-shadow: 10px 10px 5px rgb(22, 22, 22);
+
+}

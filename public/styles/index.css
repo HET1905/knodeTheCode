@@ -1,0 +1,99 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~INDEX~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+/* body */
+#main-page{ 
+ 
+  width: 100%;
+ height: auto;
+    
+}
+
+/*this is so that the landing is clickable but does not have ugly url lines on our beautiful page  */
+a:link{
+  text-decoration: none;
+}
+
+/* made h2 bigger */
+#secondline{
+  color: whitesmoke;
+  font-size: 30px;
+}
+
+/* styling for h1 */
+#node, #code{
+  color: rgb(140, 179, 211);
+  text-shadow: 2px 2px white;
+}
+
+#your{
+  color: rgb(196, 210, 218);
+  text-shadow: 2px 2px rgba(13, 62, 126, 0.856);
+}
+
+/* this is for our background image */
+img {
+  /* Set rules to fill background */
+  min-height: 100%;
+  min-width: 1024px;
+     
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+     
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+ }
+ @media screen and (max-width: 1024px) { /* Specific to this particular image */
+  img {
+    left: 50%;
+    margin-left: -512px;   /* 50% */
+  }
+ }
+
+
+
+/* bottom div with games */
+#main-bottom{
+  text-align: center;
+  margin-bottom: 500px;
+  margin-top: 10px;
+
+}
+
+
+/* the glitch is real folks  */
+.glitch{
+  overflow: hidden;
+}
+
+  /* dropdown menu */
+#dropdownMenuButton{ 
+  font-family: 'Libre Baskerville', serif;
+  height: 50px;
+  width: 90%;
+  background-color: rgb(196, 210, 218);
+  border: 5px double rgb(13, 97, 152);
+  color: black;
+  font-size: 25px;
+  box-shadow: 5px;
+}
+
+.dropdown-item{
+width: 500px;
+text-align: center;
+font-family: 'Libre Baskerville', serif;
+ color: black;
+ background-color: rgb(196, 210, 218);
+ border: 5px double rgb(13, 97, 152);
+ font-size: 25px;
+  
+}
+.dropdown-menu{
+  background:url(/public/images/dropdownbg.png)
+}
+
+.nav-wrapper{
+background-color: #000000
+}
