@@ -39,8 +39,8 @@ Our website features different levels of difficulties for two functionalities wh
 
 * ![Logo](https://github.com/HET1905/knodeTheCode/blob/master/public/images/_Logo.png "Logo")
 * ![Flash card selection page](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Page1_project.png "Logo")
-* ![Responsive 1](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive1.png "Responsive1")
-* ![Responsive 2](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive2.png "Responsive2")
+* ![Responsive 1](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive1.PNG "Responsive1")
+* ![Responsive 2](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive2.PNG "Responsive2")
 
 
 ## Code Example
