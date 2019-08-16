@@ -1,9 +1,6 @@
 # [Knode Your Code](https://ruproject2.herokuapp.com/)
 RU-SOM-FSF-FT-06-2019-U-C | Group Project #2
 
-[Project Proposal Writeup](https://docs.google.com/document/d/1j_li9f7Tetkw_iHMy5VSHT4AaXnyQ2tzosolplEmr4U/edit) | [Project Mark Up Documentation](https://docs.google.com/document/d/1k095il8f_2_KuDT8Sd4TqgFpIw20aCA4Lg42_DU2r2g/edit#heading=h.5225lej68lkh) | [Project PowerPoint Presentation](https://docs.google.com/presentation/d/1TaMn2Eo7f8CRAeK_ikbxo5hP9ksX9oJc_ZW__vz4lok/edit#slide=id.g5eb3b58909_3_1441) | [See the Code on Github](https://github.com/alexlo15/Project2) |
-
-
 ___
 
 ## Motivation
@@ -39,7 +36,12 @@ Our website features different levels of difficulties for two functionalities wh
 * At the end of the quiz, the user will be prompted their results.
 
 ## Screenshots
-Include logo/demo screenshot etc.
+
+* ![Logo](https://github.com/HET1905/knodeTheCode/blob/master/public/images/_Logo.png "Logo")
+* ![Flash card selection page](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Page1_project.png "Logo")
+* ![Responsive 1](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive1.png "Responsive1")
+* ![Responsive 2](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive2.png "Responsive2")
+
 
 ## Code Example
 Show what your project does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
