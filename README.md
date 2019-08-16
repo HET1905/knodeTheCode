@@ -1,4 +1,4 @@
-# [Knode Your Code](https://ruproject2.herokuapp.com/)
+# [Knode Your Code](https://knodthecode.herokuapp.com/)
 RU-SOM-FSF-FT-06-2019-U-C | Group Project #2
 
 ___
@@ -43,11 +43,7 @@ Our website features different levels of difficulties for two functionalities wh
 * ![Responsive 2](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive2.PNG "Responsive2")
 
 
-## Code Example
-Show what your project does as concisely as possible, developers should be able to figure out **how** your project solves their problem by looking at the code example. Make sure the API you are showing off is obvious, and that your code is short and concise.
 
-## Installation
-Provide step by step series of examples and explanations about how to get a development env running.
 
 ## Credits
 
