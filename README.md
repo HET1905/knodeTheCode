@@ -1,4 +1,6 @@
 # [Knode Your Code](https://knodthecode.herokuapp.com/)
+Link : (https://knodthecode.herokuapp.com/)
+
 RU-SOM-FSF-FT-06-2019-U-C | Group Project #2
 
 ___
@@ -9,14 +11,14 @@ We wanted to design a free resource where other individuals learning how to code
 ## Technologies used and why
 
 **Built with:**
-* [Bootstrap](https://getbootstrap.com/):
-* [Font Awesome](https://fontawesome.com/start):
-* [JQuery](https://jquery.com/):
-* [Node](https://nodejs.org/en/): An environment that allows developers to use Javascript to interact with the user without front-end coding.
-* [MySQL2](https://www.mysql.com/): Open source database that allows developers to create databases.
-* [DotEnv](https://www.npmjs.com/package/dotenv): Set environment variables to the global `process.env` object in node.
-* [Sequelize](https://www.npmjs.com/package/sequelize): 
-* [Sequelize-cli](https://www.npmjs.com/package/sequelize-cli):
+* [Bootstrap](https://getbootstrap.com/)
+* [Font Awesome](https://fontawesome.com/start)
+* [JQuery](https://jquery.com/)
+* [Node](https://nodejs.org/en/)
+* [MySQL2](https://www.mysql.com/) 
+* [DotEnv](https://www.npmjs.com/package/dotenv) 
+* [Sequelize](https://www.npmjs.com/package/sequelize) 
+* [Sequelize-cli](https://www.npmjs.com/package/sequelize-cli)
 
 ## Features
 Our website features different levels of difficulties for two functionalities which the user can choose from: _(Note: more functionalities will be added later)_
@@ -42,6 +44,16 @@ Our website features different levels of difficulties for two functionalities wh
 * ![Responsive 1](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive1.PNG "Responsive1")
 * ![Responsive 2](https://github.com/HET1905/knodeTheCode/blob/master/public/images/Responsive2.PNG "Responsive2")
 
+## How to install
+
+1. Clone the repository to the desire location on your computer.
+2. run the package.json file using the command:
+```
+    npm i
+
+```
+3. Once the dependencies installed use ``` npm start ``` to run the local host. 
+4. Check your browser for the application.
 
 
 
