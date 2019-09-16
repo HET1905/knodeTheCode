@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.0.0",
+    "eslint-utils": "^1.4.2",
     "express": "^4.17.1",
     "mysql2": "^1.6.5",
     "sequelize": "^5.8.6",
