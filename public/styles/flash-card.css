@@ -23,7 +23,7 @@ body {
 
 }
 
-.flip-box-inner.h2{
+.flip-box-inner.h2 {
   padding-top: 30px;
 }
 
@@ -33,7 +33,7 @@ body {
 
 }
 
-.shadow{
+.shadow {
   box-shadow: 10px 10px 5px rgb(22, 22, 22);
 
 }
@@ -58,18 +58,20 @@ body {
   color: rgba(10, 243, 10, 0.815);
 }
 
-.notecard{  top: 25%;
+.notecard {
+  top: 25%;
 }
 
-#myCarousel{
-font-size: 2em;
+#myCarousel {
+  font-size: 2em;
 
 }
-#logoTitle{
+
+#logoTitle {
   padding-right: 70%;
 }
 
-#mainlogo{
+#mainlogo {
   box-shadow: 10px 10px 5px rgb(22, 22, 22);
 
 
@@ -86,8 +88,8 @@ h2.timer {
   background-color: transparent;
 }
 
-.glyphicon{
-  color:#f0f0f8;
+.glyphicon {
+  color: #f0f0f8;
 }
 
 /* The flip box container - set the width and height to whatever you want. We have added the border property to demonstrate that the flip itself goes out of the box on hover (remove perspective if you don't want the 3D effect */
@@ -95,7 +97,7 @@ h2.timer {
   background-color: transparent;
   width: 760px;
   height: 350px;
-  margin:auto auto;
+  margin: auto auto;
   perspective: 1000px;
   /* Remove this if you don't want the 3D effect */
 }
@@ -124,6 +126,7 @@ h2.timer {
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   background: url(/images/71LOpZLRwoL._SX355_.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -147,7 +150,6 @@ h2.timer {
   color: rgb(253, 211, 172);
 }
 
-#myCarousel{
-  width:100%;
+#myCarousel {
+  width: 100%;
 }
-
